@@ -1,0 +1,23 @@
+{
+  "name": "concussion",
+  "version": "0.0.1",
+  "description": "read/write HTTP header objects",
+  "main": "concusstion.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2",
+    "expect.js": "^0.3",
+    "sinon": "^1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richRemer/concussion.git"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/concussion/issues"
+  }
+}
