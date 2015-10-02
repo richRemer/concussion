@@ -1,6 +1,6 @@
 {
   "name": "concussion",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "read/write HTTP header objects",
   "main": "concussion.js",
   "scripts": {
