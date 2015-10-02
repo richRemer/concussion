@@ -2,7 +2,7 @@
   "name": "concussion",
   "version": "0.0.1",
   "description": "read/write HTTP header objects",
-  "main": "concusstion.js",
+  "main": "concussion.js",
   "scripts": {
     "test": "mocha"
   },
